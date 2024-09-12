@@ -1,2 +1,2 @@
 # Amazon
-Amazon clone
+Amazon UI clone
